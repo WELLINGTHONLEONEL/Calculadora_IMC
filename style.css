@@ -56,7 +56,7 @@ main{
     height: 40px;
     font: bold 1.2rem serif;
     background: #000000;
-    color: rgba(255, 0, 255, 0.836);
+    color: rgb(231, 229, 72);
     outline: none;
     border-radius: 5px;
     cursor: pointer;
