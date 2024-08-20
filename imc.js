@@ -34,4 +34,4 @@ function imc () {
 
 }
 
-calcular.addEventListener('click', imc);
+calcular.addEventListener('click', imc);10
